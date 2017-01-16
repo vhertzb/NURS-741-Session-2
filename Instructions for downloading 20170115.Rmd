@@ -1,0 +1,29 @@
+---
+title: "Preparations for class on 18 January, 2017"
+author: "VIcki Hertzberg"
+date: "January 15, 2017"
+output: html_document
+---
+
+Before class on January 18, 2017, we would like you to do the following:
+
+1. Download R onto your laptop. Go to CRAN, the Comprehensive R Archive Network, and download the version suitable for your operating system. The URL is https://cran.r-project.org.  It will ask you to pick a mirror site for downloading - pick any of them.
+
+2. Install R per the instructions.
+
+3. If you had installed R prior to this semester, please make sure that it is up-to-date. We will be using version 3.3.2. Use the R dropdown menu to see the version you have. If you do not have 3.3.2, then from the R dropdown menu you can check for R updates. Follow the directions.
+
+4. Download and install RStudio on your laptop. Go to https://www.rstudio.com/. After you click "Download RStudio" you will be asked to choose your version. Download the one on the far left, the free version. You will be taken to a choice of downloads - click on the one suitable for your operating system. Follow the installation instructions.
+
+5. If you had installed RStudio prior to this semester, please make sure it is up-to-date. We will be using version 1.0.136. Go to the Help menu at the top, then Check for Updates.
+
+6. Install RMarkdown:
+In the RStudio pane on the lower right, click on the Packages tab, then the Install button. This will bring up a window, and type "rmarkdown" into the window. Make sure that the box marked "Install Dependencies" is clicked. Then click Install.
+
+7. Go to https://github.com, and follow the directions that Melinda is sending you to register for an account. Remeber your username - we will use that to link to her repository.
+
+8. Choose a git client, and install it. Jenny Bryant lists several good choices at her website in chapter 7. See http://happygitwithr.com/install-git.html
+
+If you can get as far as number 8, that is terrific. But if you cannot, please try hard to get as far as number 7, and we can help you with git client installation in class.
+
+
